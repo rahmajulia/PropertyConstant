@@ -2,7 +2,6 @@
 
 namespace Pbo\Marketplace;
 
-
 class Produk{
     //property
     public string $kode;
